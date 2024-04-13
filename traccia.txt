@@ -1,0 +1,14 @@
+Sviluppare un'applicazione che permetta di creare un torneo di Mario Kart.
+ Nel torneo sono presenti tre squadre, ognuna corrispondente a un utente.
+ Ogni squadra è composta da tre personaggi, uno per ogni categoria di gara: 50cc,
+ 100cc e 150cc.
+Ogni personaggio ha un costo in crediti, che varia da 1 a 4, e ogni giocatore
+ dispone di un budget di 10 crediti massimi per la formazione della sua squadra.
+I personaggi vengono assegnati in base al giocatore utente che li sceglie
+ per primo.
+  
+-Local Storage su Angular.
+-REST API in EF con approccio manuale.
+-Possibilitá di vedere la squadra di ogni utente e crediti residui.
+ 
+PS. Collegherete la REST API la settimana prossima con Giovanni.

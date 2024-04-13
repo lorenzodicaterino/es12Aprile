@@ -1,0 +1,187 @@
+[
+  {
+    "ContainingType": "Esercitazione12Aprile_MarioKart.Controllers.PersonaggioController",
+    "Method": "StampaTutti",
+    "RelativePath": "Personaggio",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "Esercitazione12Aprile_MarioKart.Controllers.PersonaggioController",
+    "Method": "InserisciPersonaggio",
+    "RelativePath": "Personaggio",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "dto",
+        "Type": "Esercitazione12Aprile_MarioKart.DTO.PersonaggioDTO",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "Esercitazione12Aprile_MarioKart.Controllers.PersonaggioController",
+    "Method": "ModificaPersonaggio",
+    "RelativePath": "Personaggio",
+    "HttpMethod": "PUT",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "dto",
+        "Type": "Esercitazione12Aprile_MarioKart.DTO.PersonaggioDTO",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "Esercitazione12Aprile_MarioKart.Controllers.PersonaggioController",
+    "Method": "EliminaPersonaggio",
+    "RelativePath": "Personaggio/{codice}",
+    "HttpMethod": "DELETE",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "codice",
+        "Type": "System.String",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "Esercitazione12Aprile_MarioKart.Controllers.PersonaggioController",
+    "Method": "RecuperaPerCodice",
+    "RelativePath": "Personaggio/{codice}",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "codice",
+        "Type": "System.String",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "Esercitazione12Aprile_MarioKart.Controllers.PersonaggioController",
+    "Method": "InserisciPersonaggioInSquadra",
+    "RelativePath": "Personaggio/personaggi-in-squadra",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "codS",
+        "Type": "System.String",
+        "IsRequired": false
+      },
+      {
+        "Name": "codP",
+        "Type": "System.String",
+        "IsRequired": false
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "Esercitazione12Aprile_MarioKart.Controllers.SquadraController",
+    "Method": "StampaTutti",
+    "RelativePath": "Squadra",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "Esercitazione12Aprile_MarioKart.Controllers.SquadraController",
+    "Method": "InserisciSquadra",
+    "RelativePath": "Squadra",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "dto",
+        "Type": "Esercitazione12Aprile_MarioKart.DTO.SquadraDTO",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "Esercitazione12Aprile_MarioKart.Controllers.SquadraController",
+    "Method": "ModificaSquadra",
+    "RelativePath": "Squadra",
+    "HttpMethod": "PUT",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "dto",
+        "Type": "Esercitazione12Aprile_MarioKart.DTO.SquadraDTO",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "Esercitazione12Aprile_MarioKart.Controllers.SquadraController",
+    "Method": "EliminaSquadra",
+    "RelativePath": "Squadra/{codice}",
+    "HttpMethod": "DELETE",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "codice",
+        "Type": "System.String",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "Esercitazione12Aprile_MarioKart.Controllers.SquadraController",
+    "Method": "RecuperaPerCodice",
+    "RelativePath": "Squadra/{codice}",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "codice",
+        "Type": "System.String",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "Esercitazione12Aprile_MarioKart.Controllers.SquadraController",
+    "Method": "VisualizzaPersonaggiInSquadra",
+    "RelativePath": "Squadra/personaggi",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "codiceS",
+        "Type": "System.String",
+        "IsRequired": false
+      }
+    ],
+    "ReturnTypes": []
+  }
+]

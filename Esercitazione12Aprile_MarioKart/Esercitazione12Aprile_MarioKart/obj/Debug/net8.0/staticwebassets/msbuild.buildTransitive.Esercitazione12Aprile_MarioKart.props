@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\buildMultiTargeting\Esercitazione12Aprile_MarioKart.props" />
+</Project>

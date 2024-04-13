@@ -1,0 +1,33 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\utente\\Desktop\\esercitazioni\\es12Aprile\\Esercitazione12Aprile_MarioKart\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{026DA212-2FE6-4E50-BBBC-DC1C37CC1626}|Esercitazione12Aprile_MarioKart\\Esercitazione12Aprile_MarioKart.csproj|c:\\users\\utente\\desktop\\esercitazioni\\es12aprile\\esercitazione12aprile_mariokart\\esercitazione12aprile_mariokart\\controllers\\squadracontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{026DA212-2FE6-4E50-BBBC-DC1C37CC1626}|Esercitazione12Aprile_MarioKart\\Esercitazione12Aprile_MarioKart.csproj|solutionrelative:esercitazione12aprile_mariokart\\controllers\\squadracontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{026DA212-2FE6-4E50-BBBC-DC1C37CC1626}|Esercitazione12Aprile_MarioKart\\Esercitazione12Aprile_MarioKart.csproj|c:\\users\\utente\\desktop\\esercitazioni\\es12aprile\\esercitazione12aprile_mariokart\\esercitazione12aprile_mariokart\\service\\squadraservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{026DA212-2FE6-4E50-BBBC-DC1C37CC1626}|Esercitazione12Aprile_MarioKart\\Esercitazione12Aprile_MarioKart.csproj|solutionrelative:esercitazione12aprile_mariokart\\service\\squadraservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{026DA212-2FE6-4E50-BBBC-DC1C37CC1626}|Esercitazione12Aprile_MarioKart\\Esercitazione12Aprile_MarioKart.csproj|c:\\users\\utente\\desktop\\esercitazioni\\es12aprile\\esercitazione12aprile_mariokart\\esercitazione12aprile_mariokart\\repository\\squadrarepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{026DA212-2FE6-4E50-BBBC-DC1C37CC1626}|Esercitazione12Aprile_MarioKart\\Esercitazione12Aprile_MarioKart.csproj|solutionrelative:esercitazione12aprile_mariokart\\repository\\squadrarepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{026DA212-2FE6-4E50-BBBC-DC1C37CC1626}|Esercitazione12Aprile_MarioKart\\Esercitazione12Aprile_MarioKart.csproj|c:\\users\\utente\\desktop\\esercitazioni\\es12aprile\\esercitazione12aprile_mariokart\\esercitazione12aprile_mariokart\\repository\\personaggiorepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{026DA212-2FE6-4E50-BBBC-DC1C37CC1626}|Esercitazione12Aprile_MarioKart\\Esercitazione12Aprile_MarioKart.csproj|solutionrelative:esercitazione12aprile_mariokart\\repository\\personaggiorepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{026DA212-2FE6-4E50-BBBC-DC1C37CC1626}|Esercitazione12Aprile_MarioKart\\Esercitazione12Aprile_MarioKart.csproj|c:\\users\\utente\\desktop\\esercitazioni\\es12aprile\\esercitazione12aprile_mariokart\\esercitazione12aprile_mariokart\\repository\\irepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{026DA212-2FE6-4E50-BBBC-DC1C37CC1626}|Esercitazione12Aprile_MarioKart\\Esercitazione12Aprile_MarioKart.csproj|solutionrelative:esercitazione12aprile_mariokart\\repository\\irepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": []
+    }
+  ]
+}

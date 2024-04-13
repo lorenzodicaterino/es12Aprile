@@ -1,0 +1,6 @@
+@Esercitazione12Aprile_MarioKart_HostAddress = http://localhost:5059
+
+GET {{Esercitazione12Aprile_MarioKart_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
